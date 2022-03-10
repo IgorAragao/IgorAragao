@@ -4,15 +4,15 @@
 Skills Técnicas:
 
 ----🖥️ Redes 🖥️----<br/>
-● AD DS Windows Server
-● DHCP Windows Server
-● DNS Windows Server
-● Kaspersky Security Center
+● AD DS Windows Server<br/>
+● DHCP Windows Server<br/>
+● DNS Windows Server<br/>
+● Kaspersky Security Center<br/>
 ● Veritas - Backup Exec
 
 
 ----⚙️ Criação ⚙️----<br/>
-● Marketing
+● Marketing<br/>
 ● Adobe Photoshop
 
 
