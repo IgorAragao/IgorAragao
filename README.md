@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá 👋, me chamo Igor Lamino Aragão, estou cursando 3º Semestre em Tecnologia em redes de computadores, Atualmente trabalho como Ax. de suporte técnico SN.<br/> 
 
-<!--
-**IgorAragao/IgorAragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills Técnicas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----🖥️ Redes 🖥️----<br/>
+● AD DS Windows Server
+● DHCP Windows Server
+● DNS Windows Server
+● Kaspersky Security Center
+● Veritas - Backup Exec
+
+
+----⚙️ Criação ⚙️----<br/>
+● Marketing
+● Adobe Photoshop
+
+
+----🧩 FRONTEND 🧩----<br/>
+● Html e css<br/>
+
+
+  Aqui está algumas informações interessantes🚀  
+  Link do meu Linkedin: https://www.linkedin.com/in/igor-lamino-arag%C3%A3o-097255202/
