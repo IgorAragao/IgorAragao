@@ -1,4 +1,4 @@
-### Olá 👋, me chamo Igor Lamino Aragão, estou cursando 3º Semestre em Tecnologia em redes de computadores, Atualmente trabalho como Ax. de suporte técnico SN.<br/> 
+### Olá 👋, me chamo Igor Lamino Aragão, estou cursando 3º Semestre em Tecnologia em redes de computadores, Atualmente trabalho como Analista de suporte técnico JR.<br/> 
 
 
 Skills Técnicas:
