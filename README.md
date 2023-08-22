@@ -1,4 +1,4 @@
-### Olá 👋, me chamo Igor Lamino Aragão, estou cursando 3º Semestre em Tecnologia em redes de computadores, Atualmente trabalho como Analista de suporte técnico JR.<br/> 
+### Opa, tudo bem? Me chamo Igor, sou formado em Tecnologia em redes de computadores e atualmente trabalho como DBA Trainee.<br/> 
 
 
 Skills Técnicas:
@@ -10,8 +10,10 @@ Skills Técnicas:
 ● Kaspersky Security Center<br/>
 ● Veritas - Backup Exec
 
+----🎲 Banco de dados 🎲----<br/>
+● PostgreSQL
 
-----⚙️ Criação ⚙️----<br/>
+----🖼️ Criação/Design 🖼️----<br/>
 ● Marketing<br/>
 ● Adobe Photoshop
 
@@ -21,4 +23,4 @@ Skills Técnicas:
 
 
   Aqui está algumas informações interessantes🚀  
-  Link do meu Linkedin: https://www.linkedin.com/in/igor-lamino-arag%C3%A3o-097255202/
+  Meu Linkedin: https://www.linkedin.com/in/igor-lamino-arag%C3%A3o-097255202/
