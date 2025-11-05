@@ -1,26 +1,29 @@
-### Opa, tudo bem? Me chamo Igor, sou formado em Tecnologia em redes de computadores e atualmente trabalho como DBA Trainee.<br/> 
+Opa, tudo bem? Me chamo Igor, sou formado em Tecnologia em redes de computadores e atualmente trabalho como DBA e consultor PostgreSQL.
 
+## Skills Técnicas:
 
-Skills Técnicas:
+### 🎲 Banco de dados 🎲
+- PostgreSQL
 
-----🖥️ Redes 🖥️----<br/>
-● AD DS Windows Server<br/>
-● DHCP Windows Server<br/>
-● DNS Windows Server<br/>
-● Kaspersky Security Center<br/>
-● Veritas - Backup Exec
+### ⌨️ Desenvolvimento ⌨️
+- Python
+- Bash script
 
-----🎲 Banco de dados 🎲----<br/>
-● PostgreSQL
+### 🖥️ Redes 🖥️
+- AD DS Windows Server
+- DHCP Windows Server
+- DNS Windows Server
+- Kaspersky Security Center
+- Veritas - Backup Exec
 
-----🖼️ Criação/Design 🖼️----<br/>
-● Marketing<br/>
-● Adobe Photoshop
+### 🖼️ Criação/Design 🖼️
+- Marketing
+- Adobe Photoshop
 
+### 🧩 FRONTEND 🧩
+- Html e css
 
-----🧩 FRONTEND 🧩----<br/>
-● Html e css<br/>
+<br/>
 
-
-  Aqui está algumas informações interessantes🚀  
-  Meu Linkedin: https://www.linkedin.com/in/igor-lamino-arag%C3%A3o-097255202/
+🚀 Mais informoções sobre mim:  
+- [Meu LinkedIn](https://www.linkedin.com/in/igor-lamino-arag%C3%A3o-097255202/)
